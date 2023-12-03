@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973852030064",
+    "project_id": "nabildujse",
+    "storage_bucket": "nabildujse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973852030064:android:0e5c7a4a2848f21b6970b5",
+        "android_client_info": {
+          "package_name": "com.example.nabildujse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMT_ml6lZ2ENnxeBekCi3N0qXuFHT7jk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
